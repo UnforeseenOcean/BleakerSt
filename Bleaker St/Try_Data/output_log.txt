@@ -1,0 +1,40 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1230]
+    Renderer: AMD Radeon HD 7620G + HD 8670M Dual Graphics
+    Vendor:   ATI
+    VRAM:     2786 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.306 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Setting to default shader.
+Platform assembly: C:\Users\Ansh Patel\Documents\GitHub\BleakerSt\Bleaker St\Try_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d64 -> priority: 1 
